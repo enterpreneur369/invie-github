@@ -1,4 +1,4 @@
 # invie-github
 invie-github
-Yout best guitars invie-sibles
+Yout best guitars invie-sibles by @Platzi
 #more info
